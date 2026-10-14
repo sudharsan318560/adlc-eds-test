@@ -1,0 +1,5 @@
+# Keep LF in the working tree on every platform: eslint enforces linebreak-style: unix.
+* text=auto eol=lf
+*.jpg binary
+*.png binary
+*.ico binary
