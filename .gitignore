@@ -17,3 +17,5 @@ import-work/
 
 # aem content clone initialises its own git repo inside content/
 content/.git/
+
+.hlx/.da-token*.json
