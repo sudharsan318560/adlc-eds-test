@@ -14,3 +14,6 @@ helix-importer-ui
 
 # local import scrape artifacts
 import-work/
+
+# aem content clone initialises its own git repo inside content/
+content/.git/
